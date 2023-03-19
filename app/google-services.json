@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "453376976463",
+    "project_id": "pdf-project-bec4b",
+    "storage_bucket": "pdf-project-bec4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453376976463:android:221f5072e066e86e9b6c3a",
+        "android_client_info": {
+          "package_name": "com.example.pdfproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "453376976463-nqp7bkte2fhnlm67q8n2okkq7i2u5nks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdHL7deeFdUIAOdvZXAEzimvF7rYW5kzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "453376976463-nqp7bkte2fhnlm67q8n2okkq7i2u5nks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
